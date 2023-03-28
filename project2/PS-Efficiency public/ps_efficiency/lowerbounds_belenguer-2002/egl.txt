@@ -1,0 +1,25 @@
+egl-e1-A.ocarp 3515
+egl-e1-B.ocarp 4436
+egl-e1-C.ocarp 5453
+egl-e2-A.ocarp 4994
+egl-e2-B.ocarp 6249
+egl-e2-C.ocarp 8114
+egl-e3-A.ocarp 5869
+egl-e3-B.ocarp 7646
+egl-e3-C.ocarp 10019
+egl-e4-A.ocarp 6372
+egl-e4-B.ocarp 8809
+egl-e4-C.ocarp 11276
+egl-s1-A.ocarp 4992
+egl-s1-B.ocarp 6201
+egl-s1-C.ocarp 8310
+egl-s2-A.ocarp 9780
+egl-s2-B.ocarp 12286
+egl-s2-C.ocarp 16221
+egl-s3-A.ocarp 10025
+egl-s3-B.ocarp 13554
+egl-s3-C.ocarp 16969
+egl-s4-A.ocarp 12027
+egl-s4-B.ocarp 15933
+egl-s4-C.ocarp 20179
+END

@@ -1,0 +1,36 @@
+val1A.ocarp	173
+val1B.ocarp	173
+val1C.ocarp	245
+val2A.ocarp	227
+val2B.ocarp	259
+val2C.ocarp	457
+val3A.ocarp	81
+val3B.ocarp	87
+val3C.ocarp	138
+val4A.ocarp	400
+val4B.ocarp	412
+val4C.ocarp	428
+val4D.ocarp	528
+val5A.ocarp	423
+val5B.ocarp	446
+val5C.ocarp	474
+val5D.ocarp	575
+val6A.ocarp	223
+val6B.ocarp	233
+val6C.ocarp	317
+val7A.ocarp	279
+val7B.ocarp	283
+val7C.ocarp	331
+val8A.ocarp	386
+val8B.ocarp	395
+val8C.ocarp	521
+val9A.ocarp	323
+val9B.ocarp	326
+val9C.ocarp	332
+val9D.ocarp	388
+val10A.ocarp	428
+val10B.ocarp	436
+val10C.ocarp	446
+val10D.ocarp	525
+END	
+

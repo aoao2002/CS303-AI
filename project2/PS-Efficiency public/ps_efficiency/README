@@ -1,0 +1,32 @@
+== Attention ==
+
+    This file contains the source codes for the computational experiment presented in [1].
+
+    1) All the source codes are free to use. You may modify it as you want.
+    2) The author does not have any responsibility for any consequences of using these codes.
+    3) Please provide references to the authors' publications in works using part of these codes.
+    4) For clarifications or collaborations please contact us by email.
+    5) Thanks.
+
+    [1]: "An efficiency-based path-scanning heuristic for the capacitated arc routing problem.", Arakaki and F. L. Usberti,
+    Submitted for Computers and Operations Research, 2018.
+
+== Instructions ==
+
+CMake [1] and GCC [2] are required to compile the code.
+LEMON [3] library is used for graph manipulation.
+LEMON should be installed in a folder where g++ can locate it automatically (depending on your Linux distribution) [4], otherwise the flags to include headers and libraries should be explicited in the compiler command-line invocation (edit 'CMakeLists.txt' file in this case).
+
+$> cmake .
+$> make
+$> ./psefficiency_experiment <instance_list_file> {-k <num_iterations>}
+
+ex: ./psefficiency_experiment gdb.txt -k 20000
+
+[1] https://cmake.org/
+[2] http://gcc.gnu.org
+[3] http://lemon.cs.elte.hu
+[4] https://lemon.cs.elte.hu/trac/lemon/wiki/InstallLinux
+
+
+

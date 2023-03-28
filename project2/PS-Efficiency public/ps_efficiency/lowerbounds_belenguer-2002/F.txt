@@ -1,0 +1,26 @@
+F01.carp 4040
+F02.carp 3300
+F03.carp 1665
+F04.carp 3485
+F05.carp 3605
+F06.carp 1875
+F07.carp 3335
+F08.carp 3705
+F09.carp 4730
+F10.carp 2925
+F11.carp 3835
+F12.carp 3395
+F13.carp 2855
+F14.carp 3330
+F15.carp 3560
+F16.carp 2725
+F17.carp 2055
+F18.carp 3065
+F19.carp 2515
+F20.carp 2445
+F21.carp 2930
+F22.carp 2075
+F23.carp 3005
+F24.carp 3210
+F25.carp 1390
+END

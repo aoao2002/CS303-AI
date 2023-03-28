@@ -1,0 +1,26 @@
+C01.carp 4145
+C02.carp 3135
+C03.carp 2575
+C04.carp 3510
+C05.carp 5365
+C06.carp 2535
+C07.carp 4075
+C08.carp 4090
+C09.carp 5245
+C10.carp 4700
+C11.carp 4615
+C12.carp 4235
+C13.carp 2955
+C14.carp 4030
+C15.carp 4920
+C16.carp 1475
+C17.carp 3555
+C18.carp 5620
+C19.carp 3115
+C20.carp 2120
+C21.carp 3970
+C22.carp 2245
+C23.carp 4075
+C24.carp 3400
+C25.carp 2310
+END

@@ -1,0 +1,11 @@
+egl-g1-A.carp 1004864
+egl-g1-B.carp 1129937
+egl-g1-C.carp 1262888
+egl-g1-D.carp 1398958
+egl-g1-E.carp 1543804
+egl-g2-A.carp 1115339
+egl-g2-B.carp 1226645
+egl-g2-C.carp 1371004
+egl-g2-D.carp 1509990
+egl-g2-E.carp 1659217
+END

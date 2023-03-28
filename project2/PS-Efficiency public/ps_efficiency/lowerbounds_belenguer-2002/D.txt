@@ -1,0 +1,26 @@
+D01.carp 3215
+D02.carp 2520
+D03.carp 2065
+D04.carp 2785
+D05.carp 3935
+D06.carp 2125
+D07.carp 3115 
+D08.carp 3045
+D09.carp 4120
+D10.carp 3340
+D11.carp 3745
+D12.carp 3310
+D13.carp 2535
+D14.carp 3280
+D15.carp 3990
+D16.carp 1060
+D17.carp 2620
+D18.carp 4165 
+D19.carp 2400
+D20.carp 1870
+D21.carp 3005
+D22.carp 1865
+D23.carp 3130
+D24.carp 2705
+D25.carp 1815
+END

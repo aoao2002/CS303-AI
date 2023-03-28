@@ -1,0 +1,26 @@
+E01.carp 4900
+E02.carp 3990
+E03.carp 2015
+E04.carp 4155
+E05.carp 4585
+E06.carp 2055
+E07.carp 4155
+E08.carp 4710
+E09.carp 5805
+E10.carp 3605
+E11.carp 4650
+E12.carp 4180
+E13.carp 3345
+E14.carp 4115
+E15.carp 4200
+E16.carp 3775
+E17.carp 2740
+E18.carp 3835
+E19.carp 3235
+E20.carp 2825
+E21.carp 3730
+E22.carp 2470
+E23.carp 3710
+E24.carp 4020
+E25.carp 1615
+END
